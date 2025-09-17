@@ -318,7 +318,7 @@ Calculate your own ROI at: ${window.location.href}`;
           {/* Header */}
           <div className="text-center mb-8">
             <div className="flex items-center justify-center mb-4">
-              <img src="/Promptly_Logomark_Blue (1).jpg" alt="Promptly Logo" className="h-8 w-8 mr-3" />
+              <img src="/DataPlunge Logo.svg" alt="DataPlunge Logo" className="h-8 w-8 mr-3" />
               <h1 className="text-3xl font-bold text-gray-900">
                 ROI Calculator
               </h1>
