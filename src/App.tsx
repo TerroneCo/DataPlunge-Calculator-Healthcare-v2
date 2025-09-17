@@ -1005,8 +1005,6 @@ Calculate your own ROI at: ${window.location.href}`;
 T            </div>
           </div>
         </div>
-      </div>
-    </div>
   );
 }
 
