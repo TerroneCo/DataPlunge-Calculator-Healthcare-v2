@@ -1002,7 +1002,7 @@ Calculate your own ROI at: ${window.location.href}`;
                   </div>
                 </div>
               )}
-            </div>
+          <img src="/DataPlunge Logo.svg" alt="DataPlunge Logo" className="h-8 w-8 mr-3" />
           </div>
         </div>
       </div>
